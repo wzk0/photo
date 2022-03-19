@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - name: 节点
+  - name: 666
     type: http
     server: jc.ap.fastqvpn.com
     port: "29980"
