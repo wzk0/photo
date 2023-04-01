@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiI5MS4xNDkuMjMyLjE2MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImRvd25sb2FkLmNsb3VkLjE4OS5jbiIsImlkIjoiOTg3ZjZmYzAtYjQyZi00NmE0LWFhMmYtMTliMzQ1MjU4MjdmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjQ2ODEiLCJwcyI6Ii4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://5df1af3c-79e9-4049-adde-ec8bd40f98d0@awssg10-data.amazon-azure.com:80/?type=ws&encryption=auto&host=media.amazonwebservices.com&path=%2Faws-china-media%2FY699Gjx2rNw.mp4#%E6%96%B0%E5%8A%A0%E5%9D%A1-2.78MB%2Fs%28Youtube%3A%E4%B8%8D%E8%89%AF%E6%9E%97%29
